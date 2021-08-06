@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/User-Card-Grid/static/css/main.45e77dfa.chunk.css",
+    "main.js": "/User-Card-Grid/static/js/main.fce22648.chunk.js",
+    "main.js.map": "/User-Card-Grid/static/js/main.fce22648.chunk.js.map",
+    "runtime-main.js": "/User-Card-Grid/static/js/runtime-main.0d8f6288.js",
+    "runtime-main.js.map": "/User-Card-Grid/static/js/runtime-main.0d8f6288.js.map",
+    "static/js/2.67b2d04c.chunk.js": "/User-Card-Grid/static/js/2.67b2d04c.chunk.js",
+    "static/js/2.67b2d04c.chunk.js.map": "/User-Card-Grid/static/js/2.67b2d04c.chunk.js.map",
+    "static/js/3.b225eb81.chunk.js": "/User-Card-Grid/static/js/3.b225eb81.chunk.js",
+    "static/js/3.b225eb81.chunk.js.map": "/User-Card-Grid/static/js/3.b225eb81.chunk.js.map",
+    "index.html": "/User-Card-Grid/index.html",
+    "static/css/main.45e77dfa.chunk.css.map": "/User-Card-Grid/static/css/main.45e77dfa.chunk.css.map",
+    "static/js/2.67b2d04c.chunk.js.LICENSE.txt": "/User-Card-Grid/static/js/2.67b2d04c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8f6288.js",
+    "static/js/2.67b2d04c.chunk.js",
+    "static/css/main.45e77dfa.chunk.css",
+    "static/js/main.fce22648.chunk.js"
+  ]
+}
